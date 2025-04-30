@@ -1,0 +1,4 @@
+app:
+  name: My Spring App
+  description: Config fetched from GitHub
+  version: 1.0
